@@ -3,15 +3,11 @@
   I'm **Seamus Zhang**, a student at **Shenzhen Technology University**.                
                                                                         
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)         
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=whi
-  te)                                                                                   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=
-  white)                                                                                
-  ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&
-  logoColor=white)                                                                      
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)                                                                                   
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                                                                                
+  ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)                                                                      
   ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=bla
-  ck)                                                                                   
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)                                                                                   
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)                      
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)   
                                                                                         
@@ -22,12 +18,9 @@
                                                                                         
   ### 🚀 Projects                                                                       
                                                                                         
-  - [Space-domain Robo](https://github.com/Seamus-Z/Space-domain-Robo) — robotics       
-  project                                                               
-  - [From Models to                                                                     
-  Action](https://github.com/Seamus-Z/autonomous-systems-from-modeling-to-action) — an  
-  open technical book covering **Modeling → Estimation → Planning → Control → 
-  Execution**                                                                           
+  - [Space-domain-Robo](https://github.com/Seamus-Z/Space-domain-Robo) — robotics project                                                               
+  - [From Models to Action](https://github.com/Seamus-Z/autonomous-systems-from-modeling-to-action) — an  
+  open technical book covering **Modeling → Estimation → Planning → Control → Execution**                                                                           
                                                                         
   ### 🤝 My Best Teammate                                                               
    
