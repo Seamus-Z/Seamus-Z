@@ -3,7 +3,7 @@
   I'm **Seamus Zhang**, a student at **Shenzhen Technology University**.                
                                                                                  
   - ⚙️  Started my journey with embedded systems                                         
-  - 🤖 Focused on robotics, drones, and autonomous systems                              
+  - 🤖 Focused on robotics, drones, and autonomous systems，FMCW Lidar and Optoelectronic chip design                               
   - 🎯 Aspiring to become a full-stack engineer
   - 🔬 From a microelectronics background — being "full-stack" means starting at the chip level                                         
   - 🌍 Driven to build products and knowledge that benefit humanity or change the world 
