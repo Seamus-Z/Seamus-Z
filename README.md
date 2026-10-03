@@ -12,10 +12,6 @@
                                                                                         
   - [Space-domain-Robo](https://github.com/Seamus-Z/Space-domain-Robo) — an open‑source robotics platform                                                               
   - [From Models to Action](https://github.com/Seamus-Z/autonomous-systems-from-modeling-to-action) — an open technical book covering **Modeling → Estimation → Planning → Control → Execution** 
-                                                                        
-  ### 🤝 My Best Teammate                                                               
-   
-   [XiaoYuanKLQUEEN](https://github.com/XiaoYuanKLQUEEN)
 
   ### 🤖 AI teammates:                                                                                                                                          
                                                                         
