@@ -20,7 +20,7 @@
   ### 📫 Reach Me                                                                       
                                                                         
   - 📧 Email: [senmiaoz19@gmail.com](mailto:senmiaoz19@gmail.com)                       
-  - 🌐 Website: [senmiaozhang.life](http://www.senmiaozhang.life/)      
+  - 🌐 Website: [spacedomian.tech](http://www.spacedomian.tech)      
 
   ### 🛠️  Tech Stack  
   
